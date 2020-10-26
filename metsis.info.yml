@@ -1,4 +1,4 @@
-name: Drupal8 W3CSS METSIS
+name: METSIS
 type: theme
 base theme: drupal8_w3css_theme
 core_version_requirement: ^8 || ^9
