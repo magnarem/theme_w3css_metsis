@@ -1,0 +1,10 @@
+{
+    "name": "metno/metsis-drupal-theme",
+    "type": "drupal-custom-thme",
+    "description": "METSIS theme for drupal based on w3css",
+    "license": "GPL-2.0+",
+    "version": "2.0.9",
+    "require": {
+        "drupal/d8w3css": "^2.0"
+     }
+}
