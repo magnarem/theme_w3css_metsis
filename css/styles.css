@@ -29,3 +29,36 @@ h2.w3-block-title {
   padding: 4px 8px !important;
   margin: 5px 0;
 }
+/* Set the page with to 80 percent
+.w3-width-95-percent {
+  max-width: 95%!important;
+}*/
+/* Override the font of the body text */
+body {
+  font-family:Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.2;
+}
+
+/* Override the headings font */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #47498C !important;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  margin: 5px 0 !important;
+}
+
+.aen a:link {
+        color: indigo
+}
+.aen a:visited {
+        color: indigo
+}
+.aen a:hover {
+        color: blue
+}
